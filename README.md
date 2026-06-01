@@ -19,7 +19,7 @@
 I'm an AI/ML developer based in **Nagpur, India**, passionate about building intelligent systems that solve real-world problems.
 
 - 🌱 Currently diving deep into **DSA, AI Agents & Machine Learning**
-- 🤝 Looking to collaborate on **ML/AI projects** — let's build something meaningful!
+- 🤝 Looking to collaborate on **ML/AI projects** let's build something meaningful!
 - 🧠 Exploring the frontier of **Agentic AI**
 - 💡 Driven by the belief that technology should make life better
 
