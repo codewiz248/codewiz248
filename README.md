@@ -23,7 +23,10 @@ I'm an AI/ML developer based in **Nagpur, India**, passionate about building int
 - 🧠 Exploring the frontier of **Agentic AI**
 - 💡 Driven by the belief that technology should make life better
 
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️ Technologies & Tools
 
@@ -51,6 +54,9 @@ I'm an AI/ML developer based in **Nagpur, India**, passionate about building int
   </tr>
 </table>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📊 GitHub Stats
 
@@ -59,18 +65,21 @@ I'm an AI/ML developer based in **Nagpur, India**, passionate about building int
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewiz248&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 
 <br/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br> <br>
 [![Sakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewiz248&theme=tokyo-night&hide_border=true)](https://github.com/codewiz248)
 
 </div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---#pacman
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me?username=codewiz248" />
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✨ My Mantra
 
@@ -81,6 +90,9 @@ while not success:
     stay_consistent()
     embrace_failures_as_lessons()
 ```
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 > *"Every expert was once a beginner. Keep going."*
 
