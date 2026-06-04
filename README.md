@@ -59,10 +59,7 @@ I'm an AI/ML developer based in **Nagpur, India**, passionate about building int
 
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewiz248&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=codewiz248&theme=tokyonight&hide_border=true)
 
 <br/>
 <!--horizontal divider(gradiant)-->
