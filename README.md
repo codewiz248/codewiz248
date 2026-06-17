@@ -75,12 +75,15 @@ I'm an AI/ML developer based in **Nagpur, India**, passionate about building int
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
----#pacman
+Github progress
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me?username=codewiz248" />
 
 
+
 ## ✨ My Mantra
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```python
 while not success:
